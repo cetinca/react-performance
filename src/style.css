@@ -30,7 +30,7 @@ body {
 }
 
 .button {
-    width: 3rem;
+    min-width: 3rem;
     padding: .3rem;
     background-color: #b6d7a8;
     border: 1px solid #888;
